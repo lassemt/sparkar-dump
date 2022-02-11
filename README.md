@@ -1,5 +1,5 @@
 # Spark AR filter dump
-The projects and source code for (almost) all the augmented reality filters published to my Instagram account, [lasselassetime](instagram.com/lasselassetime/).
+The projects and source code for (almost) all the augmented reality filters published to my Instagram account, [@lasselassetime](https://instagram.com/lasselassetime/).
 
 ## License
 Spark AR filter dump (c) by Lasse Mejlvang Tvedt
